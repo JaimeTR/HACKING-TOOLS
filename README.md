@@ -41,3 +41,5 @@ ruby install : gem install (modules) and open Gemfile for view requirements
 build go script : go build
 
 execute javascript : java -jar file.jar
+
+.
